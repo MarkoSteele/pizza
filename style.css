@@ -1,0 +1,16 @@
+p b {
+  color: rgb(206, 12, 12);  
+}
+#destaques {
+    background-color: rgb(187, 13, 13);
+}
+#contato {
+    background-color: #333232;
+    color: white;
+}
+#contato div p b {
+    color: #FA6135;
+}
+body {
+    background-color: #ffd700;
+}
